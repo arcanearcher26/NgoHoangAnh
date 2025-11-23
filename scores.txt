@@ -1,0 +1,24 @@
+DAA,0,Trung bình
+Player,0
+Player,0
+Player,0
+Player,100
+Player,0
+Player,100
+Player,0
+Player,50
+Player,30
+Player,70
+Player,0
+Player,30
+Player,0
+Player,30
+Player,0
+Player,0
+Player,0
+Player,0
+Player,0
+Player,0
+Player,0
+Player,0
+Player,140
